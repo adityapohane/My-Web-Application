@@ -12,7 +12,7 @@ const Content = () => {
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="card bg-black  mb-5 shadow-sm">
-          <img src="../sunset.jpg"class="img-fluid" />
+          <img src="https://source.unsplash.com/500x400/?code,nature,human" alt="img"class="img-fluid" />
           <div class="card-body">
             <div class="card-title">
               <h2 className='text-info'>This is post title</h2>
@@ -25,7 +25,7 @@ const Content = () => {
                 quo aliquid quia quod quidem adipisci?
               </p>
             </div>
-            <a href="#" class="btn btn-outline-info float-end rounded-5"
+            <a href="" class="btn btn-outline-info float-end rounded-5"
               >Read More</a
             >
           </div>
@@ -35,7 +35,7 @@ const Content = () => {
 
       <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="card bg-black mb-5 shadow-sm">
-          <img src="../pink2.jpg"  class="img-fluid" />
+          <img src="https://source.unsplash.com/500x400/?code,nature,winter" alt="img"  class="img-fluid" />
           <div class="card-body">
             <div class="card-title">
             <h2 className='text-info'>This is post title</h2>
@@ -58,7 +58,7 @@ const Content = () => {
     {/* 3rd image */}
       <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="card bg-black mb-5 shadow-sm">
-          <img src="../sun.jpg"  class="img-fluid" />
+          <img src="https://source.unsplash.com/500x400/?code,nature,spring" alt="img"  class="img-fluid" />
           <div class="card-body">
             <div class="card-title">
             <h2 className='text-info'>This is post title</h2>
@@ -82,7 +82,7 @@ const Content = () => {
       {/* 4th image */}
       <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="card bg-black mb-5 shadow-sm">
-          <img src="../sunset3.jpg"  class="img-fluid" />
+          <img src="https://source.unsplash.com/500x400/?code,nature,home" alt="img"  class="img-fluid" />
           <div class="card-body">
             <div class="card-title">
             <h2 className='text-info'>This is post title</h2>
@@ -105,7 +105,7 @@ const Content = () => {
       <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="card bg-black mb-5 shadow-sm">
           <img
-            src="../pont-den-gil.jpg"
+            src="https://source.unsplash.com/500x400/?code,nature,ocean" alt="img" 
            
             class="img-fluid"
           />
@@ -130,7 +130,7 @@ const Content = () => {
        {/* 6th image  */}
       <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="card bg-black mb-5 shadow-sm">
-          <img src="../sunset2.jpg"  class="img-fluid" />
+          <img src="https://source.unsplash.com/500x400/?code,nature,water" alt="img"  class="img-fluid" />
           <div class="card-body">
             <div class="card-title">
             <h2 className='text-info'>This is post title</h2>
